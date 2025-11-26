@@ -38,7 +38,7 @@ const adisty: Developer = {
   location: "Indonesia 🇮🇩",
   education: {
     university: "Telkom University",
-    major: "Software Engineering",
+    major: "Computer Science",
     semester: 3
   },
   currentlyLearning: [
